@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jcommon-1.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.20.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/poi-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-8.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/RSButtonIconI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/LGoodDatePicker-10.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jdatepicker-1.3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/itextpdf-5.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/RSTableMetro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/RojeruSan.parte1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/RojeruSan.lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/PlaceHolder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jfreechart-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-codec-1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-collections4-4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/mssql-jdbc-8.2.2.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
